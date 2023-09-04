@@ -2,6 +2,13 @@
 
 X-notebook is a web application built using the MERN (MongoDB, Express.js, React, Node.js) stack that allows you to store, edit, and delete your notes on the cloud. With X-notebook, you can access your notes from anywhere with an internet connection, making it a convenient and versatile tool for managing your information.
 
+  
+
+
+
+https://github.com/LANcer830/X-notebook/assets/74341050/3903c15b-18df-4eb3-b6ba-8df44d8e6de3
+
+
 ## Features
 
 - **Cloud Storage:** Your notes are securely stored in the cloud, ensuring that you can access them from any device with an internet connection.
